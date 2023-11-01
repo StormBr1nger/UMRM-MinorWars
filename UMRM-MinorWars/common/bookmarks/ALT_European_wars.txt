@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "EUEOPEAN_WARS"
+	desc = "EUEOPEAN_WARS_DESC"
+	date = 1445.01.01
+	
+	center = 112
+	default = yes
+	
+	# TODO: add main countries
+}
