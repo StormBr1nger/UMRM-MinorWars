@@ -1,0 +1,21 @@
+# Minor wars modifiers
+
+# Ruthenian modifiers
+mother_of_ruth_modifier = {
+	potential = {}
+	trigger = {
+		owner = {
+			religion = orthodox
+			owns_core_province = 280
+			culture = ruthenian
+		}
+		religion = orthodox
+	}
+	land_morale = 0.05
+	morale_damage_received = -0.05
+	church_loyalty_modifier = 0.1
+	province_modifiers = {
+		local_defensiveness = 0.3
+		garrison_size = 0.20
+	}
+}
