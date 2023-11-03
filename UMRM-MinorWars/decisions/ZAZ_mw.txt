@@ -1,0 +1,51 @@
+country_decisions = {
+
+	# build the Khortytsia casle
+	build_khirtytsia_castle = {
+		potential = {
+			tag = ZAZ
+			owns_core_province = 283 # Zaporozhia
+			283 = {
+				NOT = {
+					has_great_project = {
+						type = khortytsia_castle
+						tier = 1
+					}
+				}
+				NOT = {
+					has_great_project = {
+						type = khortytsia_castle
+						tier = 2
+					}
+				}
+				NOT = {
+					has_great_project = {
+						type = khortytsia_castle
+						tier = 3
+					}
+				}
+			}
+		}
+
+		alLow = {
+			manpower = 11
+		}
+		effect = {
+			add_manpower = -6
+			add_treasury = -150
+			283 = {
+				set_great_project_tier_1 = {
+					type = khortytsia_castle
+				}
+			}
+			add_army_tradition = 10
+			add_army_professionalism = 0.05
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		color = {252 3 78}
+	}
+}
