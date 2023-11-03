@@ -1,0 +1,42 @@
+TRV_ideas = {
+	start = {
+		infantry_cost = -0.1
+		hostile_attrition = 1	
+	}
+	
+	bonus = {
+		infantry_power = 0.1
+	}
+	
+	trigger = {
+		tag = TRO
+	}
+	free = yes
+	
+	legacy_of_the_werewolf_prince = {
+		fabricate_claims_cost = -0.25
+	}	
+	heritage_of_the_rus = {
+		legitimacy = 1	
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+	}
+	cultural_center = {
+		idea_cost = -0.1	
+	}
+	land_of_strongholds = {
+		defensiveness = 0.1
+	}
+	trade_hub = {
+		trade_efficiency = 0.1
+	}
+	diplomatic_initiative = {
+		diplomatic_upkeep = 1
+	}
+	forest_of_europe = {
+		build_cost = -0.1
+		development_cost = -0.1
+	}
+}

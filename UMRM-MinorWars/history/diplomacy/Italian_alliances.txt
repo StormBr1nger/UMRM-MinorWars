@@ -1,8 +1,6 @@
 # Pope and Perugia
 
-
 # Montferrat and Savoy
-
 
 # Naples and Provence
 union = {
@@ -28,7 +26,6 @@ union = {
 }
 
 # Milan and Florence
-
 
 # Venice and Ak Koyunlu
 alliance = {
@@ -274,7 +271,7 @@ royal_marriage = {
 	end_date = 1493.10.11
 }
 
-#Ercole II ~ Renée, dt. King Louis XII of France
+#Ercole II ~ RenÃ©e, dt. King Louis XII of France
 royal_marriage = {   
 	first = MOD
 	second = FRA
@@ -346,7 +343,7 @@ royal_marriage = {
 	end_date = 1694.9.6
 } 
 
-# Rinaldo III ~ Charlotte, dt. Johann Friedrich, Duke of Braunschweig-Lüneburg-Kalenberg
+# Rinaldo III ~ Charlotte, dt. Johann Friedrich, Duke of Braunschweig-LÃ¼neburg-Kalenberg
 royal_marriage = {
 	first = MOD
 	second = LUN
@@ -354,7 +351,7 @@ royal_marriage = {
 	end_date = 1710.12.31 #Exact date unknown
 } 
 
-# Francesco III ~ Charlotte, dt. Philippe II, Duc d'Orléans
+# Francesco III ~ Charlotte, dt. Philippe II, Duc d'OrlÃ©ans
 royal_marriage = {
 	first = MOD
 	second = FRA
@@ -402,7 +399,7 @@ royal_marriage = {
 	end_date = 1663.4.29
 } 
 
-# Ranuccio II ~ Isabella d’Este, dt. Francesco I of Modena
+# Ranuccio II ~ Isabella dâ€™Este, dt. Francesco I of Modena
 royal_marriage = {
 	first = PAR
 	second = MOD
@@ -410,7 +407,7 @@ royal_marriage = {
 	end_date = 1666.8.17
 } 
 
-# Ranuccio II ~ Maria d’Este, dt. Francesco I of Modena
+# Ranuccio II ~ Maria dâ€™Este, dt. Francesco I of Modena
 royal_marriage = {
 	first = PAR
 	second = MOD
@@ -418,7 +415,7 @@ royal_marriage = {
 	end_date = 1684.8.20
 } 
 
-# Odoardo II, Crown Prince of Parma ; ~ Dorothea Sophie von Neuburg, dt. Philipp Wilhelm, Herzog von Neuburg (1653-90), Duke of Berg and Jülich (1666-90), Kfst von der Pfalz (1685-90)
+# Odoardo II, Crown Prince of Parma ; ~ Dorothea Sophie von Neuburg, dt. Philipp Wilhelm, Herzog von Neuburg (1653-90), Duke of Berg and JÃ¼lich (1666-90), Kfst von der Pfalz (1685-90)
 royal_marriage = {
 	first = PAR
 	second = PAL
@@ -434,7 +431,7 @@ royal_marriage = {
 	end_date = 1727.2.26
 } 
 
-# Antonio ~ Enrichetta d’Este, dt. Rinaldo III of Modena
+# Antonio ~ Enrichetta dâ€™Este, dt. Rinaldo III of Modena
 royal_marriage = {
 	first = PAR
 	second = MOD
@@ -489,7 +486,7 @@ royal_marriage = {
 	end_date = 1578.4.11
 }
 	
-# Ferdinando I ~ Chrétienne, dt. Charles III "le Grand" of Lorraine
+# Ferdinando I ~ ChrÃ©tienne, dt. Charles III "le Grand" of Lorraine
 royal_marriage = {
 	first = TUS
 	second = LOR
@@ -505,7 +502,7 @@ royal_marriage = {
 	end_date = 1621.2.28
 }
 
-# Cosimo III ~ Marguerite-Louise, dt. Gaston, Duc d'Orléans (son of Henri IV of France and Navarra)
+# Cosimo III ~ Marguerite-Louise, dt. Gaston, Duc d'OrlÃ©ans (son of Henri IV of France and Navarra)
 royal_marriage = {
 	first = TUS
 	second = FRA
@@ -545,7 +542,7 @@ royal_marriage = {
 	end_date = 1574.9.28
 }
 
-# Francesco Maria II ~ Lucrezia d’Este, dt. of Ferrara
+# Francesco Maria II ~ Lucrezia dâ€™Este, dt. of Ferrara
 royal_marriage = {
 	first = URB
 	second = MOD

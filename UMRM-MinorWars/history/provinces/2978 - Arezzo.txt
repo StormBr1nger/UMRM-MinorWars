@@ -32,7 +32,7 @@ discovered_by = ottoman
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-} # The Treaty of Lunéville
+} # The Treaty of LunÃ©ville
 1801.3.21 = {
 	owner = ETR
 	controller = ETR

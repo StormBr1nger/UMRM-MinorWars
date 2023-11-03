@@ -1,0 +1,24 @@
+#296 - Kaluga
+
+owner = OKA
+controller = OKA   
+culture = ryazanian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain  
+base_manpower = 2
+capital = "Kaluga"
+is_city = yes
+add_core = OKA
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group
+
+
+1711.1.1 = { base_tax = 6 base_production = 6 } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 7 base_production = 7 } # Legislative reform
+
