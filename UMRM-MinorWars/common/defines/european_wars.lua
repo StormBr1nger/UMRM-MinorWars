@@ -1,1 +1,1 @@
-NDefines.NGame.START_DATE = "1445.01.01"
+NDefines.NGame.START_DATE = "1444.11.11"
