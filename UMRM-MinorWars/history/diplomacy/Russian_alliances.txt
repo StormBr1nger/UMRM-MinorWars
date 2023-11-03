@@ -1,0 +1,8 @@
+# Smolensk and Odoew
+vassal = {
+	first = SMO
+	second = OKA
+	start_date = 1444.1.1
+	end_date = 1463.1.1
+}
+
