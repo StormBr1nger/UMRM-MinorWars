@@ -48,6 +48,7 @@ SLO = "countries/Slovakia.txt"
 TUR	= "countries/Ottomans.txt"
 
 #British Isles 
+WSK = "countries/Weseks.txt"
 CNN = "countries/Connacht.txt"
 CRN	= "countries/Cornwall.txt"
 ENG	= "countries/England.txt"

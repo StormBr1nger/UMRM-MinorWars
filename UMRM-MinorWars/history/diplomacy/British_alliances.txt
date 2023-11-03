@@ -1,11 +1,4 @@
 #Scotland-Isles
-vassal = {
-	first = SCO
-	second = LOI
-	start_date = 1444.1.1
-	end_date = 1493.1.1
-}
-
 
 # England-Scotland
 union = {
@@ -72,17 +65,6 @@ alliance = {
 }
 
 # The Anglo-Portuguese alliance
-
-
-# The triple alliance
-alliance = {
-	first = ENG
-	second = NED
-	start_date = 1668.1.23
-	end_date = 1668.5.2
-}
-
-# The triple alliance
 alliance = {
 	first = ENG
 	second = SWE
