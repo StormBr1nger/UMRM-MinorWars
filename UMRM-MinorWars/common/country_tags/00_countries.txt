@@ -209,6 +209,7 @@ ADU = "countries/Andalusia.txt"
 VAL = "countries/Valencia.txt"
 ASU = "countries/Asturias.txt"
 MJO = "countries/Majorca.txt"
+LIS = "countries/Lisoba.txt"
 
 #Italy
 AQU	= "countries/Aquileia.txt"
