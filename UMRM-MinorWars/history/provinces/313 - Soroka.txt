@@ -19,6 +19,9 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
+# trade
+extra_cost = 16
+center_of_trade = 2
 
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
