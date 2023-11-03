@@ -1,0 +1,150 @@
+# MW monuments
+
+# Rythenia
+khortytsia_castle = {
+	start = 283 #Zaporozhia
+	date = 1440.01.01
+	time = { months = 0	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+	
+	can_use_modifiers_trigger = {
+		AND = {
+			AND = {
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				owner = { 
+					has_estate = estate_cossacks
+				}
+			}
+		}
+	}
+
+	can_upgrade_trigger = {
+		AND = {
+			AND = {
+				province_is_or_accepts_culture = yes
+			}
+			AND = {
+				owner = { 
+					has_estate = estate_cossacks
+				}
+			}
+		}
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			local_manpower_modifier = 0.30
+			local_defensiveness = 0.20
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.10
+		}
+		country_modifiers = {
+			army_tradition_from_battle = 0.50
+			shock_damage = 0.05
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_cossacks
+					loyalty = 5
+				}
+			}			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			local_manpower_modifier = 0.50
+			local_defensiveness = 0.30
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.20
+		}
+		country_modifiers = {
+			army_tradition = 0.25
+			army_tradition_from_battle = 0.50
+			shock_damage = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			local_manpower_modifier = 1.0
+			local_defensiveness = 0.40
+		}
+		area_modifier = {
+			local_manpower_modifier = 0.25
+		}
+		country_modifiers = {
+			army_tradition_decay = -0.01
+			army_tradition_from_battle = 1.0
+			shock_damage = 0.1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_cossacks
+					loyalty = 5
+				}
+				add_army_tradition = 10
+				add_army_professionalism = 0.05
+			}
+		}
+	}
+}
