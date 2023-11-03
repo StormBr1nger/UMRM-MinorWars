@@ -1,0 +1,8 @@
+# MW monuments gfx
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_great_project_khortytsia_castle"	
+		texturefile = "gfx//interface//great_projects//great_project_trakai_castle.dds"
+	}
+}
