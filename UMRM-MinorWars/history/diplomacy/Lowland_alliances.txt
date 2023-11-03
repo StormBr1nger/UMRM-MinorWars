@@ -1,21 +1,11 @@
 #Dutch states
 
-#vassal = 
-
 vassal = {
 	first = SPA
 	second = NED
 	start_date = 1549.11.4
 	end_date = 1579.1.23
 }
-
-#union = {
-#	first = BUR
-#	second = HAI
-#	start_date = 1444.1.1
-#	end_date = 1477.1.5
-#}
-
 
 # Hainaut and Holland
 alliance = {
