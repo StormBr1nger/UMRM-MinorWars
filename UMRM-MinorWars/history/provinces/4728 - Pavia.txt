@@ -1,17 +1,17 @@
 # 4728 - Pavia
 
-owner = MLO
-controller = MLO
+owner = MFA
+controller = MFA
 culture = lombard
 religion = catholic
-hre = no
+hre = yes
 base_tax = 6
 base_production = 5
 trade_goods = grain
 base_manpower = 5
 capital = "Pavia"
 is_city = yes	# Estimated
-add_core = MLO
+add_core = MFA
 
 
 

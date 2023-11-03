@@ -1,17 +1,17 @@
 # 2978 - Arezzo
 
-owner = LAN
-controller = LAN
+owner = PGA
+controller = PGA
 culture = tuscan 
 religion = catholic 
-hre = no 
+hre = yes 
 base_tax = 6
 base_production = 6
 trade_goods = livestock
 base_manpower = 2
 capital = "Arezzo" 
 is_city = yes # Estimated 
-add_core = LAN
+add_core = PGA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -32,7 +32,7 @@ discovered_by = ottoman
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-} # The Treaty of Lunéville
+} # The Treaty of LunÃ©ville
 1801.3.21 = {
 	owner = ETR
 	controller = ETR

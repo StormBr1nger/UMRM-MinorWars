@@ -1,11 +1,11 @@
 #102 - Nice
 
-owner = SAV
-controller = SAV
-add_core = SAV
+owner = SZO
+controller = SZO
+add_core = SZO
 culture = ligurian
 religion = catholic
-hre = no
+hre = yes
 base_tax = 4 
 base_production = 4
 trade_goods = fish

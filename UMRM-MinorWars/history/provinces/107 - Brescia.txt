@@ -1,17 +1,17 @@
 #107 - Brescia
 
-owner = MLO		# From 1426
-controller = MLO
+owner = VRN		
+controller = VRN
 culture = lombard 
 religion = catholic 
-hre = no 
+hre = yes 
 base_tax = 5
 base_production = 5   
 trade_goods = cloth
 base_manpower = 3
 capital = "Brescia" 
 is_city = yes
-add_core = MLO
+add_core = VRN
 fort_15th = yes
 
 
@@ -22,10 +22,6 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1428.1.1 = {	owner = VEN
-	controller = VEN
-	add_core = VEN
-}
 1495.1.1 = { hre = no }
 1509.6.1 = { controller = FRA } # Venice collapses
 1512.1.1 = { controller = VEN } # Brescia revolts

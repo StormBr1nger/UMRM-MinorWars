@@ -1,17 +1,15 @@
 #1247 - Corsica
 
-owner = GEN
-controller = GEN
+owner = COR
+controller = COR
 culture = sardinian
 religion = catholic
 capital = "Bastia"
-hre = no
-base_tax = 3 
+hre = yes 
 base_production = 3
 trade_goods = naval_supplies
 base_manpower = 2
 is_city = yes
-add_core = GEN
 add_core = COR
 
 
@@ -44,7 +42,7 @@ discovered_by = ottoman
 	owner = GEN
 	controller = GEN
 	remove_core = FRA
-} # Treaty of Cateau-Cambrésis
+} # Treaty of Cateau-CambrÃ©sis
 1729.1.1 = { unrest = 7 } # Revolt against the Genoese
 1732.5.1 = { unrest = 3 } # Charles VI sends military assistance & the rebels surrender
 1733.11.17 = { unrest = 5 } # Mistrust in the Genoese administration resulted in another Corsican revolt
