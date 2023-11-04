@@ -1,0 +1,114 @@
+country_decisions = {
+	form_crthage = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { tag = CRF }
+			OR = {
+				primary_culture = tunisian
+				primary_culture = berber
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 341		# Tunis
+				province_id = 2954		# Djerba
+				province_id = 354		# Tripoli
+				province_id = 338		# Maitija
+				province_id = 1751		# Sueta
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			NOT = { exists = CRF }
+			owns_core_province = 341		# Tunis
+			owns_core_province = 2954		# Djerba
+			owns_core_province = 354		# Tripoli
+			owns_core_province = 338		# Maitija
+			owns_core_province = 1751		# Sueta
+			341 = {						# Tunis
+				is_state = yes
+			}
+		}
+		effect = {
+			change_tag = CRF
+			on_change_tag_effect = yes
+			restore_country_name = yes
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+		
+			every_province = {
+				limit = {
+					AND = {
+						OR = {
+							AND = {
+								culture_group = maghrebi
+								is_state = yes
+								owner = {
+									tag = ROOT
+								}
+							}
+							is_core = ROOT
+						}
+					}
+				}
+				change_culture = punic
+			}
+			
+
+		
+			change_primary_culture = punic
+			set_ruler_culture = punic
+		
+			if = {
+				limit = {
+					has_heir = yes
+				}
+				set_heir_culture = punic
+			}
+		
+			if = {
+				limit = {
+					has_consort = yes
+					OR = {
+						consort_culture = tunisian
+						consort_culture = berber
+					}
+				}
+				set_consort_culture = punic
+			}
+		
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = Carthage_ideas }
+				}
+				country_event = { id = ideagroups.1 } 
+			}
+		}
+		
+				
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+}

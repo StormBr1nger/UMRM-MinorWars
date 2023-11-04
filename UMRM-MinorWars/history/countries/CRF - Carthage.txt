@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = muslim
+religion = sunni
+add_idea = 01_country_ideas_mw
+primary_culture = punic
+capital = 341
+fixed_capital = 289 
+

@@ -40,3 +40,48 @@ TRV_ideas = {
 		development_cost = -0.1
 	}
 }
+
+Carthage_ideas = {
+
+	start = {
+		trade_efficiency = 0.2
+		galley_power = 0.15
+	}
+	
+	bonus = {
+		trade_value_modifier = 0.2
+	}
+	
+	trigger = {
+		tag = CRF
+	}
+	free = yes
+	
+	restoration_of_carthage = {
+		development_cost = -0.1
+	}
+	
+	ad_portas = {
+		shock_damage = 0.2
+	}
+	
+	carthage_army = {
+		discipline = 0.05
+	}
+	
+	new_universities = {
+		idea_cost = -0.1
+	}
+	
+	cheap_recruitment= {
+		land_maintenance_modifier = -0.15
+	}
+	islam_tolerance ={
+		tolerance_own = 3
+	}
+	hanibal_legacy = {
+		leader_land_fire = 1
+		leader_land_shock = 1
+		leader_land_manuever = 1
+	}
+}

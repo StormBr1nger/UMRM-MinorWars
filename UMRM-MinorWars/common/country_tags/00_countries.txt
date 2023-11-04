@@ -331,6 +331,7 @@ MSY = "countries/Mushashaiyyah.txt"
 RUM = "countries/Rum.txt"
 	
 #Maghreb
+CRF ="countries/Carthage.txt"
 ALG	= "countries/Algiers.txt"
 FEZ	= "countries/Fez.txt"
 MAM	= "countries/Burgi.txt"
