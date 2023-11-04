@@ -17,6 +17,7 @@ LTG = "countries/Latgalia.txt"
 SMI = "countries/Sami.txt"
 KRL = "countries/Karelia.txt"
 ICE = "countries/Iceland.txt"
+WSG = "countries/Westergotland.txt"
 
 #Balkans
 ACH	= "countries/PrincipalityOfAchaia.txt"
