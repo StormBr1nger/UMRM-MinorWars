@@ -1,8 +1,8 @@
 #2296 - Biga
 
-owner = SRY
-controller = SRY
-add_core = SRY
+owner = TUR
+controller = TUR
+add_core = TUR
 culture = turkish
 religion = sunni
 capital = "Biga"
