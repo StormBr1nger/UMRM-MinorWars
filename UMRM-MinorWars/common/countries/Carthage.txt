@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = {146 67 28}
+
+revolutionary_colors = { 8  5  9 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = 
+{
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+    "Hamilcar #0" = 100
+    "Hannibal #0" = 40
+    "Hasdrubal #0" = 20
+    "Mago #0" = 20
+    "Carthalo #0" = 20
+    "Adherbal #0" = 20
+    "Hanno #0" = 20
+    "Bomilcar #0" = 20
+    "Sophonisba #0" = 15
+    "Dido #0" = 15
+    "Barcid #0" = 15
+    "Himilco #0" = 10
+    "Amilcar #0" = 10
+    "Gisco #0" = 0
+    "Mathos #0" = 0
+    "Malchus #0" = 0
+    "Tertullus #0" = 0
+    "Bostar #0" = 0
+    "Theron #0" = 0
+    "Elissa #0" = 0
+    "Sappho #0" = 0
+    "Baal #0" = 0
+    "Tanit #0" = 0
+    "Eshmun #0" = 0
+    "Astarte #0" = 0
+    "Melqart #0" = 0
+    "Hanno the Great #0" = 0
+    "Hadrubal the Boeotarch #0" = 0
+    "Teuta #0" = 0
+    "Adonis #0" = 0
+    "Hamilcar Barca #0" = 0
+    "Juno #0" = 0
+    "Pluto #0" = 0
+    "Uranus #0" = 0
+    "Poseidon #0" = 0
+    "Selene #0" = 0
+    "Hamilcar #0" = -1
+    "Hannibal #0" = -1
+    "Sophonisba #0" = -1
+    "Dido #0" = -1
+    "Sappho #0" = -1
+    "Astarte #0" = -1
+    "Tanit #0" = -1
+}
+
+
+leader_names  = {
+    "Taher"
+    "Akimi"
+    "Adhoum"
+    "Hakimi"
+    "Naybet"
+    "Bassir"
+    "Saber"
+    "Badra"
+    "Sassi"
+    "Dali"
+}
+
+
+ship_names = {
+    "Zephyr"
+    "Astarte's Grace"
+    "Tyrian Triumph"
+    "Carthage's Pride"
+    "Poseidon's Fury"
+    "Melqart's Might"
+    "Hannibal's Legacy"
+    "Tanit's Blessing"
+    "Hamilcar's Resolve"
+    "Dido's Dream"
+}
