@@ -15,8 +15,8 @@ norse_ideas = {
 	}
 	
 	trigger = {
-		has_country_flag = accepted_norse_ideas_flag
-		NOT = { has_country_flag = refused_norse_ideas }
+
+		tag = WSG 
 	}
 	free = yes
 	
@@ -38,9 +38,8 @@ norse_ideas = {
 	norse_ideas_berserkir = {
 		shock_damage = 0.2
 	}
-	norse_ideas_leifs_legacy = {
-		may_explore = yes
-		colonists = 1
+	swedish_steel = {
+		discipline = 0.05
 	}
 	norse_ideas_ancestral_faith = {
 		tolerance_own = 2
