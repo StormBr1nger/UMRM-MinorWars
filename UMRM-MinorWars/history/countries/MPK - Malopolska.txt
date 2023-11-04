@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = polish_great_sejm
+government_rank = 1
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+historical_friend = LIT
+historical_rival = TEU
+capital = 262 # Krakow
