@@ -1,0 +1,34 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+primary_culture = prussian
+religion = catholic
+technology_group = western
+historical_friend = LIV
+historical_rival = POL
+capital = 41	# Konigsberg
+add_army_professionalism = 0.1
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 25
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -15
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
+
+1440.03.14 = {
+	monarch = {
+		name = "Albrecht von Hohenzollern"
+		culture = saxon
+		birth_date = 1420.5.17
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
