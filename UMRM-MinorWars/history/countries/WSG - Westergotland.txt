@@ -3,4 +3,4 @@ add_government_reform = feudalism_reform
 primary_culture = norwegian
 religion = norse_pagan_reformed
 technology_group = western
-
+add_idea = 01_country_ideas_mw
