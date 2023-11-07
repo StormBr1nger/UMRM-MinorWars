@@ -8,18 +8,7 @@
 #}
 
 
-guarantee = {
-	first = VEN
-	second = KNI
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
+
 
 # Venice -> Raguza
-guarantee = {
-	first = VEN
-	second = RAG
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
 
