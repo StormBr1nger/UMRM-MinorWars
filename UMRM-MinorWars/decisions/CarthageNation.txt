@@ -57,16 +57,16 @@ country_decisions = {
 							AND = {
 								culture_group = maghrebi
 								is_state = yes
-								owner = {
-									tag = ROOT
-								}
+								owner = { tag = ROOT }
 							}
 							is_core = ROOT
 						}
+						culture_group = berber  # Додана нова умова
 					}
 				}
 				change_culture = punic
 			}
+			
 			
 
 		
