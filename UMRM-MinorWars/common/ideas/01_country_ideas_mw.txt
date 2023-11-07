@@ -85,3 +85,137 @@ Carthage_ideas = {
 		leader_land_manuever = 1
 	}
 }
+Weseks_ideas = {
+	start = {
+		infantry_power = 0.1
+		navy_tradition = 1
+	}
+
+	bonus = {
+		leader_land_fire = 1
+	}
+	
+	trigger = {
+		tag = WSK
+	}
+	free = yes		#will be added at load.
+
+	kung_och_riksdag = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1	#For completion's sake
+		horde_unity = 1
+		possible_policy = 1
+	}
+	swedish_steel = {
+		global_trade_power =  0.05
+	}
+	hakkapelitta = {
+		global_autonomy = -0.05
+	}
+	indelningsverket = {
+		manpower_recovery_speed = 0.2
+	}
+	swedish_absolutism = {
+		stability_cost_modifier = -0.1
+		yearly_absolutism = 1
+	}
+	produktplakatet = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	union_and_security_act = {
+		global_manpower_modifier = 0.20
+	}
+}
+
+LIS_ideas = {
+	start = {
+		core_creation = -0.1
+		naval_forcelimit_modifier = 0.2
+	}
+	
+	bonus = {
+		papal_influence = 3
+	}
+	
+	trigger = {
+		tag = LIS
+	}
+	free = yes		#will be added at load.
+	
+	SAR_judicate = {
+		land_morale = 0.1
+	}
+	SAR_papal_restoration = {
+		tolerance_own = 1
+		papal_influence = 1
+	}
+	SAR_viceroyalty = {
+		global_unrest = -2
+	}
+	SAR_and_COR = {
+		ae_impact = -0.1
+	}
+	kung_och_riksdag = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1	#For completion's sake
+		horde_unity = 1
+		possible_policy = 1
+	}
+	SAR_cathedrals = {
+		build_cost = -0.1
+	}
+	SAR_saint_maurice = {
+		discipline = 0.05
+	}
+}
+WSG_ideas = {
+	start = {
+		land_morale = 0.1
+		may_perform_slave_raid_on_same_religion = yes
+	}
+	
+	bonus = {
+		infantry_power = 0.1
+	}
+	
+	trigger = {
+		tag = WSG
+	}
+	free = yes
+	
+	norse_ideas_eternal_struggle = {
+		manpower_recovery_speed = 0.15
+		war_exhaustion = -0.03
+	}
+	norse_ideas_norse_seamen = {
+		own_coast_naval_combat_bonus = 1
+		naval_morale = 0.15	
+	}
+	norse_ideas_a_wall_of_shields_for_the_king = {
+		leader_land_shock = 1
+		leader_naval_shock = 1
+	}
+	kung_och_riksdag = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1	#For completion's sake
+		horde_unity = 1
+		possible_policy = 1
+	}
+	norse_ideas_berserkir = {
+		shock_damage = 0.15
+	}
+	norse_ideas_leifs_legacy = {
+		may_explore = yes
+		colonists = 1
+		effect = { remove_temporary_colonist = yes }
+	}
+	norse_ideas_ancestral_faith = {
+		tolerance_own = 2
+	}
+}

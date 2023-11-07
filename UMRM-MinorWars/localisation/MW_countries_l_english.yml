@@ -4,3 +4,12 @@
  TRO_ADJ:0 "Turov"
 #Maghreb
 CRF:0 "Carthage"
+#Skandinavia
+WSG:0 "Westergotland"
+#Britan
+WSK:0 "Wessex"
+#Iberia
+LIS:0 "Lisoba"
+#Poland
+WPK:0 "Wielkopolska"
+MPK:0 "Malopolska"

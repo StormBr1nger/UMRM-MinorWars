@@ -1,29 +1,7 @@
 #Bosnia -> Herz Venice
-vassal = {
-	first = BOS
-	second = HRZ
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
+
 
 #Epirus -> Corfu
-vassal = {
-	first = EPI
-	second = CEP
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
 
 #Achaea diplomasi
-vassal = {
-	first = ACH
-	second = MOE
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
-vassal = {
-	first = ACH
-	second = NAX
-	start_date = 1444.1.1
-	end_date = 1470.1.1
-}
+
