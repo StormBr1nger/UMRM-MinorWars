@@ -61,7 +61,7 @@ country_decisions = {
 							}
 							is_core = ROOT
 						}
-						culture_group = berber  # Додана нова умова
+						culture_group = berber  
 					}
 				}
 				change_culture = punic
