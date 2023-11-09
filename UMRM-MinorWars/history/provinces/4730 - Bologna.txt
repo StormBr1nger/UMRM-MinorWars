@@ -1,4 +1,4 @@
-#114 - Romagna
+# 4730 - Bologna
 
 owner = FER
 controller = FER
@@ -6,12 +6,12 @@ add_core = FER
 
 culture = romagnan 
 religion = catholic 
-hre = no 
-base_tax = 4
-base_production = 5
-trade_goods = salt
-base_manpower = 2
-capital = "Ravenna"
+hre = no
+base_tax = 5
+base_production = 4
+trade_goods = cloth
+base_manpower = 3
+capital = "Bologna"
 is_city = yes
 
 discovered_by = western

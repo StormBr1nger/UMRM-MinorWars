@@ -1,17 +1,17 @@
-# 4731 - Spoleto
+# 2976 - Perugia, formerly Umbria
 
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = SIE
+controller = SIE
+add_core = SIE
 
 culture = umbrian 
 religion = catholic 
 hre = no
 base_tax = 3
-base_production = 2
-trade_goods = livestock
+base_production = 4
+trade_goods = wine
 base_manpower = 1
-capital = "Spoleto" 
+capital = "Perugia" 
 is_city = yes
 
 discovered_by = western
