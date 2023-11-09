@@ -1111,3 +1111,4 @@ ISR = "countries/Israel.txt"
 ##Balkans
 SPR = countries/Sparta.txt
 MAC = countries/Macedonia.txt
+KOS = countries/Kosovo.txt
