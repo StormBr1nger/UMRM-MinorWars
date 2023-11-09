@@ -23,6 +23,7 @@ change_estate_land_share = {
 }
 
 1440.03.14 = {
+	dismantle_hre = yes # Dismantle HRE
 	monarch = {
 		name = "Albrecht von Hohenzollern"
 		culture = saxon
