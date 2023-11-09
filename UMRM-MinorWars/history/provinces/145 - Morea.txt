@@ -1,9 +1,9 @@
 #145 - Morea
 
-owner = MOE
-controller = MOE
-add_core = MOE
-add_core = ACH
+owner = SPR
+controller = SPR
+add_core = SPR
+
 culture = greek
 religion = orthodox
 capital = "Mystras"

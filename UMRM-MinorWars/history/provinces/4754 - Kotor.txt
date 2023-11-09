@@ -1,22 +1,18 @@
-#1766 - Kosovo
+# 4754 - Kotor
 
-owner = KOS
-controller = KOS
-add_core = KOS
+owner = DAL
+controller = DAL
+add_core = DAL
 
 culture = serbian
 religion = orthodox
-capital = "Pristina"
-trade_goods = gold #Novo Brdo and other Silver mines in this area
+capital = "Kotor"
+trade_goods = naval_supplies
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
-base_manpower = 2
+base_manpower = 1
 is_city = yes
-fort_15th = yes
-latent_trade_goods = {
-	coal
-}
 
 discovered_by = KAZ
 discovered_by = CRI

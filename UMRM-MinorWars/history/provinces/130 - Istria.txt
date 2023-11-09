@@ -1,8 +1,9 @@
 #130 - Istria
 
-owner = DAL
-controller = DAL
-add_core = DAL
+owner = VEN
+controller = VEN
+add_core = VEN
+
 culture = dalmatian
 religion = catholic
 capital = "Pula"

@@ -1,8 +1,8 @@
 #4705 - Gumulcine
 
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = MAC
+controller = MAC
+add_core = MAC
 culture = greek
 religion = orthodox
 capital = "Gumulcine"
