@@ -1,20 +1,18 @@
-#137 - Ragusa
+# 4754 - Kotor
 
 owner = DAL
 controller = DAL
 add_core = DAL
 
-culture = dalmatian
-religion = catholic
-capital = "Ragusa"
-trade_goods = salt
+culture = serbian
+religion = orthodox
+capital = "Kotor"
+trade_goods = naval_supplies
 hre = no
-base_tax = 5 
-base_production = 6
-base_manpower = 3
+base_tax = 3
+base_production = 3
+base_manpower = 1
 is_city = yes
-extra_cost = 16
-center_of_trade = 2
 
 discovered_by = KAZ
 discovered_by = CRI

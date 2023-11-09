@@ -1,8 +1,9 @@
 #4173 - Syrmia
 
-owner = CRO
-controller = CRO
-add_core = CRO
+owner = SER
+controller = SER
+add_core = SER
+
 culture = serbian
 religion = orthodox
 capital = "Mitrovica"
