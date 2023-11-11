@@ -1,4 +1,5 @@
 version="0.1.1"
+picture="thumbnail.png"
 tags={
 	"Map"
 	"Balance"
