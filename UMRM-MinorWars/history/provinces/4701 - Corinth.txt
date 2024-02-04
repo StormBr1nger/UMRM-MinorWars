@@ -1,8 +1,9 @@
 #4701 - Corinth
 
-owner = ACH
-controller = ACH
-add_core = ACH
+owner = SPR
+controller = SPR
+add_core = SPR
+
 culture = greek
 religion = orthodox
 capital = "Corinth"

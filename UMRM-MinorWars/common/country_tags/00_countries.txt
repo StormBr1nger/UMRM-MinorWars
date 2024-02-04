@@ -1105,3 +1105,10 @@ ISR = "countries/Israel.txt"
 #HAH = countries/Hashshashin.txt
 #TEM = countries/KnightsTemplar.txt
 #TRL = countries/Trapalanda.txt
+
+#UMRM-MinorWars
+
+##Balkans
+SPR = countries/Sparta.txt
+MAC = countries/Macedonia.txt
+KOS = countries/Kosovo.txt

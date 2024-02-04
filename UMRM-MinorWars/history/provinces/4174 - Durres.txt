@@ -1,10 +1,10 @@
 #4174 - Durres
 
-owner = VEN
-controller = VEN
+owner = ALB
+controller = ALB
 culture = albanian
 religion = orthodox
-capital = "Durrës"
+capital = "Durrï¿½s"
 trade_goods = salt
 hre = no
 base_tax = 2 
