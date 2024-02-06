@@ -8,6 +8,8 @@ CRF:0 "Carthage"
 WSG:0 "Westergotland"
 #Britan
 WSK:0 "Wessex"
+MDL:0 "Midlands"
+MDL_ADJ:0 "Midlandian"
 #Iberia
 LIS:0 "Lisoba"
 #Poland

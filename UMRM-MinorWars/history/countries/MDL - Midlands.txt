@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 15
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 1861 # Derby
+
+1433.9.1 = {
+	monarch = {
+		name = "John"
+		dynasty = "Midlandian"
+		birth_date = 1403.01.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

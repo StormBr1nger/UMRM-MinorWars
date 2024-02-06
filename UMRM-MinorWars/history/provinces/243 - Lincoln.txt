@@ -1,7 +1,7 @@
 #243 - Lincolnshire
 
-owner = NOL
-controller = NOL
+owner = MDL
+controller = MDL
 culture = english
 religion = catholic
 hre = no
@@ -11,7 +11,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Lincoln"
 is_city = yes
-add_core = NOL
+add_core = MDL
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

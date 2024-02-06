@@ -75,6 +75,8 @@ MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
 KOI = "countries/Mann.txt"
 LOI = "countries/TheIsles.txt"
 EIC	= "countries/EastIndiaCompany.txt"
+#New nations
+MDL = "countries/Midlands.txt"
 
 #Colonies
 BRZ	= "countries/Brazil.txt"
