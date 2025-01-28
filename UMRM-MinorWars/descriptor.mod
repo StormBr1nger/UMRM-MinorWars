@@ -1,4 +1,4 @@
-version="0.1.3"
+version="0.1.4"
 picture="thumbnail.png"
 tags={
 	"Map"
@@ -8,4 +8,4 @@ tags={
 	"New Nations"
 }
 name="UMRM-MinorWars"
-supported_version="1.36.0"
+supported_version="1.37"
