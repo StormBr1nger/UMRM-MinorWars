@@ -1,8 +1,8 @@
 #144 - Epiros
 
-owner = CEP
-controller = CEP
-add_core = CEP
+owner = EPI
+controller = EPI
+add_core = EPI
 culture = greek
 religion = orthodox
 capital = "Ioannina"

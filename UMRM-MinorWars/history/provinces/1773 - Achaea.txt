@@ -1,8 +1,8 @@
 #1773 - Achaea
 
-owner = ACH
-controller = ACH
-add_core = ACH
+owner = SPR
+controller = SPR
+add_core = SPR
 
 culture = greek
 religion = orthodox

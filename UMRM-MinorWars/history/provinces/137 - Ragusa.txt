@@ -1,9 +1,9 @@
 #137 - Ragusa
 
-owner = RAG
-controller = RAG
-add_core = RAG
+owner = DAL
+controller = DAL
 add_core = DAL
+
 culture = dalmatian
 religion = catholic
 capital = "Ragusa"
