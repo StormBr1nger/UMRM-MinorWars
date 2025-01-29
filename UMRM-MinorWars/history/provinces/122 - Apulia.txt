@@ -1,17 +1,17 @@
-#4729 - Padova, Padua
+#122 - Apulia
 
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = SPL
+controller = SPL
+add_core = SPL
 
-culture = venetian 
+culture = neapolitan 
 religion = catholic 
 hre = no 
-base_tax = 4
+base_tax = 3 
 base_production = 3
-trade_goods = paper
+trade_goods = wine
 base_manpower = 2
-capital = "Padova" 
+capital = "Taranto"
 is_city = yes 
 
 discovered_by = western
